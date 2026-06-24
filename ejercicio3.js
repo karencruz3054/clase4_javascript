@@ -8,5 +8,5 @@
 const lista= ['leche', 'pan', 'gaseosa', 'queso', 'pure de tomate']
 
 for(let i = 0 ; i < lista.length ; i++){
-    console.log('No te olvides de comprar ' + lista[i] + '!')
+    console.log('No te olvides de comprar ' + lista[i] + '!');
 }
